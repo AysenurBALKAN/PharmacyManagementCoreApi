@@ -1,0 +1,15 @@
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\PEntityLayer.deps.json
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\PEntityLayer.runtimeconfig.json
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\PEntityLayer.runtimeconfig.dev.json
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\PEntityLayer.dll
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\ref\PEntityLayer.dll
+C:\Users\aysenur\source\repos\PEntityLayer\bin\Debug\net5.0\PEntityLayer.pdb
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.csproj.AssemblyReference.cache
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.AssemblyInfoInputs.cache
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.AssemblyInfo.cs
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.dll
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\ref\PEntityLayer.dll
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.pdb
+C:\Users\aysenur\source\repos\PEntityLayer\obj\Debug\net5.0\PEntityLayer.genruntimeconfig.cache
